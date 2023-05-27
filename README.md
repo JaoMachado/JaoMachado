@@ -7,6 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/machado.jp_/)
 
 ![Jão Machado GitHub stats](https://github-readme-stats.vercel.app/api?username=JaoMachado&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoMachado)](https://github.com/JaoMachado/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -20,5 +21,3 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
  
 </div><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoMachado&layout=donut-vertical)](https://github.com/JaoMachado/github-readme-stats)
