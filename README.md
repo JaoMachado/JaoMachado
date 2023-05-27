@@ -6,7 +6,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/machado.jp_/)
 
-
 ![Jão Machado GitHub stats](https://github-readme-stats.vercel.app/api?username=JaoMachado&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoMachado&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/JaoMachado/github-readme-stats)
 
