@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o João Pedro Machado 👋
 
 - 💻 Louco por Programação
-- 📘 Cursando Bacharelado em Ciências da Computação - IFSP
+- 📘 Cursando Bacharelado em Ciência da Computação - IFSP
 - 👨‍🎓 Formado em Técnico em Informática Integrado ao Ensino Médio - IFSMG
 
 ## Redes Sociais
